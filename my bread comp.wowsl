@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>traces</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>BREAD</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>page</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cloud/</ImageTemplate>
+            <ImageTemplateName>Cloud</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/Test/slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/wamp/www/Test/slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>16</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Donegal One</TemplateFont>
+            <TemplateName>cloud</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/bread.jpg</url>
+                <title>Delicious yummy</title>
+                <filesize>39430</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/edited toast.jpg</url>
+                <title>Quality Bread</title>
+                <filesize>42570</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/images (1).jpeg</url>
+                <title>Quality Toast</title>
+                <filesize>6832</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/images (2).jpeg</url>
+                <title>Tasty cut</title>
+                <filesize>5122</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/images (5).jpeg</url>
+                <title>yummy loaf</title>
+                <filesize>9670</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/MR DAVID/Pictures/oven.jpeg</url>
+                <title>Neatly Backed </title>
+                <filesize>12815</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
